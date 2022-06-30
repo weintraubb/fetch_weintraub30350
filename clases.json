@@ -1,0 +1,61 @@
+[
+    {
+        "nombre": "Bárbaro",
+        "habilidades": ["Furia", "Defensa sin armadura"]
+    },
+
+    {
+        "nombre": "Bardo",
+        "habilidades": ["Inspiración de bardo", "Lanzamiento de conjuros"]
+    },
+
+    {
+        "nombre": "Brujo",
+        "habilidades": ["Magia del pacto"]
+    },
+    
+    {
+        "nombre": "Clérigo",
+        "habilidades": ["Dominio divino", "Lanzamiento de conjuros"]
+    },
+
+    {
+        "nombre": "Druida",
+        "habilidades": ["Lanzamiento de conjuros"]
+    },
+
+    {
+        "nombre": "Explorador",
+        "habilidades": ["Enemigo predilecto", "Explorador de la naturaleza"]
+    },
+
+    {
+        "nombre": "Guerrero",
+        "habilidades": ["Estilo de combate", "Nuevas energías"]
+    },
+
+    {
+        "nombre": "Hechicero",
+        "habilidades": ["Lanzamiento de conjuros"]
+    },
+
+    {
+        "nombre": "Mago",
+        "habilidades": ["Recuperación arcana", "Lanzamiento de conjuros"]
+    },
+
+    {
+        "nombre": "Monje",
+        "habilidades": ["Defensa sin armadura"]
+    },
+
+    {
+        "nombre": "Paladín",
+        "habilidades": ["Sentidos divinos", "Imponer las manos"]
+    },
+
+    {
+        "nombre": "Pícaro",
+        "habilidades": ["Ataque furtivo"]
+    }
+]

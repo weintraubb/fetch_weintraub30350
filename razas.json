@@ -1,0 +1,46 @@
+[
+    {
+        "nombre": "Dracónido",
+        "puntosCaracteristica": [2, 0, 0, 2, 0, 1]
+    },
+    
+    {
+        "nombre": "Elfo",
+        "puntosCaracteristica": [0, 2, 0, 0, 0, 0]
+    },
+    
+    {
+        "nombre": "Enano",
+        "puntosCaracteristica": [0, 0, 2, 0, 0, 0]
+    },
+    
+    {
+        "nombre": "Gnomo",
+        "puntosCaracteristica": [0, 0, 0, 2, 0, 0]
+    },
+    
+    {
+        "nombre": "Humano",
+        "puntosCaracteristica": [1, 1, 1, 1, 1, 1]
+    },
+    
+    {
+        "nombre": "Mediano",
+        "puntosCaracteristica": [0, 2, 0, 0, 0, 1]
+    },
+    
+    {
+        "nombre": "Semielfo",
+        "puntosCaracteristica": [0, 0, 0, 0, 0, 2]
+    },
+    
+    {
+        "nombre": "Semiorco",
+        "puntosCaracteristica": [2, 0, 1, 0, 0, 0]
+    },
+    
+    {
+        "nombre": "Tiflin",
+        "puntosCaracteristica": [0, 0, 0, 0, 0, 2]
+    }
+]

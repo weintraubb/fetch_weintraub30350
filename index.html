@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <script src="https://kit.fontawesome.com/c64a36e535.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div id="divSwitch">
+        <input type="checkbox" class="switch" id="switch">
+        <label for="switch" class="switch-label">
+            <i class="fa-solid fa-sun"></i>
+            <i class="fa-solid fa-moon"></i>
+            <div class="ball"></div>
+        </label>
+    </div>
+    <form action="#" class="form">
+        <h1 class="text-center mode" id="titulo">CREAR UN PERSONAJE</h1>
+        <div class="form-step form-step-active"  id="idNombres">
+            <div class="input-nombre">
+                <label class="lb mode" for="idNombre">Ingrese su nombre:</label>
+                <input type="text" name="nombreUsuario" id="idNombre" class="input">
+            </div>
+            <div class="input-nombre">
+                <label class="lb mode" for="idPersonaje">Ingrese el nombre de su personaje:</label>
+                <input type="text" name="nombrePersonaje" id="idPersonaje" class="input">
+            </div>
+            <div class="">
+                <a href="#" class="btn btn-next width-50 ml-auto mode" id="idbtn">CONTINUAR</a>
+            </div>
+        </div>
+
+        <div id="divRazas">
+            <p class="title">Elija una raza</p>
+            <div class="container form-step">
+                <div>
+                    <div class="">
+                        <div id="formRazas">
+
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div><a href="#" class="btn btn-next width-50 ml-auto mode" id="idbtn2">CONTINUAR</a></div>
+        </div>
+
+        <div id="divClases">
+            <p class="title">Elija una clase</p>
+            <div class="container form-step">
+                <div>
+                    <div class="">
+                        <div id="formClases">
+
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div><a href="#" class="btn btn-next width-50 ml-auto mode" id="idbtn3"><i class="fa-solid fa-dice-d20"></i>  TIRAR DADOS</a></div>
+        </div>
+
+        <div id="divPuntos">
+            <div class="container form-step">
+                <div id="idDestinoP">
+                    <div id="idCaracteristicas">
+                        
+        
+                    </div>
+                </div>
+            </div>
+            <div class="btn-group"><a href="#" class="btn btn-again width-50 mr-auto mode" id="idbtnagain"><i class="fa-solid fa-dice-d20"></i>   TIRAR DE NUEVO</a>
+            <a href="#" class="btn btn-next width-50 ml-auto mode" id="idbtn4">FINALIZAR</a></div>
+        </div>
+
+        <div id="divPersonaje">
+            <div class="form-step">
+                <div id="destinoPersonaje">
+
+                </div>
+            </div>
+
+        </div>
+        
+    </form>
+
+    
+</body>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="main.js" type="module"></script>
+
+</html>
